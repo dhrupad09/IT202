@@ -30,3 +30,5 @@ catch(Exception $e){
 }
 
 ?>
+
+add my info.txt
